@@ -10,8 +10,8 @@ env:
 jobs:
 
   linux:
-    runs-on: ubuntu-20.04
-    name: 🐧 Ubuntu 20.04
+    runs-on: ubuntu-21.04
+    name: 🐧 Ubuntu 21.04
     steps:
 
     - name: 🧰 Checkout
